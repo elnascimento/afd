@@ -1,6 +1,6 @@
 Estrutura de pastas
 ===================
 
-artefatos: armazena todos os artefatos da contratação, incluíndo o TR e seus anexos.
-referencias: armazena documentos utilizados como referência para elaborar os estudos preliminares.
-adicionais: para armazenamento de outros documentos que farão parte do processo (orçamentos, emails, comprovantes, etc.)
+Artefatos: armazena todos os artefatos da contratação, incluíndo o TR e seus anexos.
+Referencias: armazena documentos utilizados como referência para elaborar os estudos preliminares.
+Adicionais: para armazenamento de outros documentos que farão parte do processo (orçamentos, emails, comprovantes, etc.)
